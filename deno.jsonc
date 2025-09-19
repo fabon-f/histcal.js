@@ -1,0 +1,7 @@
+{
+  "license": "MIT",
+  "tasks": {},
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.14"
+  }
+}
