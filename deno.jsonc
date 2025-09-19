@@ -3,5 +3,8 @@
   "tasks": {},
   "imports": {
     "@std/assert": "jsr:@std/assert@^1.0.14"
+  },
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true
   }
 }
